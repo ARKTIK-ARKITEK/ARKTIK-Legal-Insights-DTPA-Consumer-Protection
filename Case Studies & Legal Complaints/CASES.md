@@ -129,6 +129,4 @@ This repository documents **ongoing deceptive trade practices and consumer right
 
 By compiling **fact-based evidence**, **legal analysis**, and **regulatory updates**, we aim to **empower consumers and expose unethical business practices.**
 
----
 
-This **CASES.md** file provides a **comprehensive and structured legal repository**, ensuring that **all case details, violations, and next steps are clearly documented.** 🚀
