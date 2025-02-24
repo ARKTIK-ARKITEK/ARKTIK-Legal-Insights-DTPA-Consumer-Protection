@@ -68,6 +68,97 @@ Leanna: No problem. I hope this is resolved soon.
 [END CALL TRANSCRIPT]
 ```
 
+**American Credit Acceptance & J. Michael Morris Call Transcript**
+
+**Date:** 04SEP24\
+**Parties Involved:**
+
+- **J. Michael Morris (Caller)**
+- **Leana (ACA Representative)**
+
+---
+
+### **(Call Begins - Automated System Navigation)**
+
+*Automated Message:* Thank you for calling American Credit Acceptance. You can now make payments online at [www.americancreditacceptance.com](www.americancreditacceptance.com). To continue in English, press one.
+
+*Caller navigates through automated prompts to verify identity.*
+
+**Automated System:** Your account is current. Your next payment of **\$391.50** is due on or before **September 8, 2024**. If you would like to speak to a representative, please continue to hold.
+
+---
+
+### **(Call Connects - Speaking with Leana, ACA Representative)**
+
+**Leana:** Thank you for calling American Credit Acceptance. My name is Leana. Can I have your first and last name, please?
+
+**J. Michael Morris:** Yes, my name is J. Michael Morris.
+
+**Leana:** Thank you for verifying your information in our system. Before we continue, can you provide your best contact number and email?
+
+**J. Morris:** Sure. My best contact number is **281-721-0273** and my email is **[j.morris@arktikglobal.com](mailto\:j.morris@arktikglobal.com)**.
+
+**Leana:** Thank you so much. Do we have permission to send you text messages?
+
+**J. Morris:** Yes, you do.
+
+---
+
+### **(Discussing Vehicle Ownership & Issues)**
+
+**Leana:** Today, you're calling regarding your **2019 Mercedes-Benz**?
+
+**J. Morris:** No, that's incorrect. The **Mercedes-Benz belongs to my wife, Taneille Morris**. My vehicle is a **BMW X3**. There were **deceptive practices in our vehicle purchases**, and I have reported this to the **Better Business Bureau (BBB) and the Texas Attorney General’s Office**.
+
+**Leana:** I understand. You’re saying the dealership engaged in deceptive practices?
+
+**J. Morris:** Yes. **AutoNation USA Houston sold me a defective BMW X3** under false pretenses. Valerie Bittle, the sales manager, admitted in a **recorded call** that BMW North **never completed a required repair order** before selling me the vehicle.
+
+**Leana:** I see. So, the dealership misled you about the condition of the vehicle?
+
+**J. Morris:** Exactly. They also falsely claimed my vehicle was under warranty and gave me **Carfax documents that concealed known defects**. I just need to know—what will ACA do differently? Because **AutoNation will be sued.**
+
+---
+
+### **(ACA’s Initial Response & Loan Reversal Discussion)**
+
+**Leana:** I understand. Since you are **suing AutoNation**, we are sending a formal complaint regarding the dealership. I am reviewing your contract now.
+
+**J. Morris:** Thank you. I need to know if **ACA is willing to work with me on a loan reversal** since we were misled.
+
+**Leana:** Typically, if a customer does not want a vehicle and it is early in the loan, **the contract can be reversed**. Since you have **not made any payments yet**, I believe a reversal is possible, but I need to confirm with **Dealer Relations**.
+
+**J. Morris:** That’s good to hear. If the loan can be reversed, **we won’t have to sue ACA**, just AutoNation.
+
+---
+
+### **(Next Steps & Resolution Plan)**
+
+**Leana:** The **Dealer Relations Department is closed right now**, but you can call back tomorrow between **8 AM - 5 PM** to discuss the reversal process.
+
+**J. Morris:** Thank you. Who is responsible for refunding my down payment?
+
+**Leana:** **AutoNation should return your down payment**, as ACA only finances the loan after the down payment is received by the dealership. The dealership **owes you that money**, not ACA.
+
+**J. Morris:** Understood. I will call back tomorrow. Please ensure a complaint is filed against AutoNation.
+
+**Leana:** Absolutely. We will escalate this issue, and I truly hope you get a fair resolution.
+
+---
+
+### **(Call Ends)**
+
+**Summary:** ACA acknowledges **possible loan reversal**, confirms AutoNation is **responsible for refunding the down payment**, and recommends following up with **Dealer Relations** to finalize the process.
+
+**Next Steps:** Call ACA **Dealer Relations Department** during business hours to confirm loan reversal and proceed with legal action against AutoNation if necessary.
+
+**Prepared by:**\
+**J. Michael Morris**\
+**Executive Director, ARKTIK Global Initiative**\
+**Email:** [j.morris@arktikglobal.com](mailto\:j.morris@arktikglobal.com)\
+**Phone:** (713) 282-6989
+
+
 ---
 
 ## **Legal Analysis & Implications**
