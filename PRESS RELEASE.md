@@ -36,7 +36,8 @@ _"I am seeking justice not only for myself but for all consumers who may fall vi
 
 Morris is calling for **AutoNation USA Houston and American Credit Acceptance to take full responsibility for their actions and provide fair restitution**. Additionally, he is urging **regulatory agencies to launch an immediate investigation into these fraudulent sales practices**.
 
-All supporting **evidence, legal documentation, and transcripts** are available for review in the **ARKTIK-Legal-Insights-DTPA-Consumer-Protection repository**:  
+All supporting **evidence, legal documentation, and transcripts** are available for review in the **ARKTIK-Legal-Insights-DTPA-Consumer-Protection repository**: https://github.com/ARKTIK-ARKITEK/ARKTIK-Legal-Insights-DTPA-Consumer-Protection/blob/main/PRESS%20RELEASE.md
+
 **/Evidence & Legal Documentation/**  
 
 ## **Media & Press Inquiries**
