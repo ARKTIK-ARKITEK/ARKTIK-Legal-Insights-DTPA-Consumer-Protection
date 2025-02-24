@@ -4,6 +4,9 @@
 
 ## This document serves as a full disclosure of an unedited call transcript between J. Michael Morris and an AutoNation representative on September 5, 2024. The purpose of releasing this transcript is to document deceptive sales practices, misrepresentation, and subsequent mishandling of issues related to the purchase of two vehicles, leading to significant financial harm and frustration.
 
+## Link to the Recording in entirety without edit. 
+https://drive.google.com/file/d/1NnwlFBqpyvfkSTkBut0gXuAalbYQaWjO/view?usp=sharing
+
 This transcript confirms the following key points:
 *   AutoNation sold two vehicles with undisclosed issues.
 *   Conflicting information regarding pricing and repair history.
